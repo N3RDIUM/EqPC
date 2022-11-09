@@ -1,2 +1,1 @@
-# EQPlatformControl
-An EQ Platform / Homemade Equatorial mount controller written in Python.
+## (EQ)uatorial (P)latform / (M)ount (C)ontroller
