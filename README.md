@@ -1,1 +1,1 @@
-## (EQ)uatorial (P)latform / (M)ount (C)ontroller
+## (Eq)uatorial (P)latform (C)ontroller
